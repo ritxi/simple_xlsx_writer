@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'simple_xlsx_writer'
-  s.version = '0.5.3'
+  s.version = '0.5.4'
   s.author = 'Dee Zsombor'
   s.email = 'zsombor@primalgrasp.com'
   s.homepage = 'http://simplxlsxwriter.rubyforge.org'
