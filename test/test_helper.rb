@@ -1,9 +1,5 @@
-require "test/unit"
-require "rubygems"
-require "date"
-require File.dirname(__FILE__) + '/../lib/simple_xlsx' unless defined?(SimpleXlsx)
+require 'test/unit'
+require 'date'
+require 'byebug'
 
-require 'ruby-debug'
-Debugger.settings[:autoeval] = true
-Debugger.settings[:autolist] = 1
-Debugger.start
+require 'simple_xlsx'
